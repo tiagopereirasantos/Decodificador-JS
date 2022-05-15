@@ -39,7 +39,7 @@ Desenvolver uma aplicação web que criptografa textos, assim será possível tr
 - A parte lógica em si considerei simples de ser pensada, porém durante o desenvolvimento percebi que alguns detalhes eram importantes, como a ordem de execução da criptografia e descriptografia dentro das funções; o cumprimento dos requisitos; e a necessidade de usar métodos ( como o .focus() ) e condições para orientar a interação do usuário, caso saísse do previsto.  
 
 - O uso do método .replaceAll() e a parte funcional do código para copiar o resultado foram novidades pra mim e encontrei certa dificuldade no início. 
-Além disso, tratando-se do CSS e HTML, tive muito trabalho para conseguir o resultado que obtive. Por mais simples que aparente estar, a construção do estilo se deu em várias tentativas que consumiram muito tempo. Numa oportunidade, pretendo melhorar o estilo e deixar as linhas de código do html mais "limpas".
+Além disso, tratando-se do CSS e HTML, tive muito trabalho para conseguir o resultado que obtive. Por mais simples que aparente estar, a construção do estilo se deu em várias tentativas que consumiram muito tempo. Numa oportunidade, pretendo melhorar o estilo e deixar as linhas de código do html mais "limpas". Também aprendi usar o Git e GitHub com esse projeto! 
 
 **Observações**  
 - O challenge faz parte da formação do programa ONE (Oracle Next Education) e foi proposto dentro de uma trilha de aprendizado. Portanto, seu foco baseia-se em fazer uso do que está sendo ensinado durante a trilha, instigar a busca por conteúdos extras necessários a resolução do desafio e também montar um portfólio de projetos. 
