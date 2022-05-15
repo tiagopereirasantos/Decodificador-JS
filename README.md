@@ -28,7 +28,7 @@ Desenvolver uma aplicação web que criptografa textos, assim será possível tr
 - Um botão que copie o texto criptografado/descriptografado para a área de transferência - ou seja, que tenha a mesma funcionalidade do `ctrl+C` ou da opção "copiar" do menu dos aplicativos.
 
 **Como utilizar:**
-- Acesse <a href="">o projeto aqui</a> e insira o texto no local indicado. Logo abaixo, clique no botão para executar a função que deseja realizar. O resultado irá aparecer na tela a direita. Se desejar, você pode copiá-lo clicando no botão `copiar` logo abaixo.
+- Acesse <a href="https://tiagopereirasantos.github.io/Decodificador-JS/">o projeto aqui</a> e insira o texto no local indicado. Logo abaixo, clique no botão para executar a função que deseja realizar. O resultado irá aparecer na tela a direita. Se desejar, você pode copiá-lo clicando no botão `copiar` logo abaixo.
 
 **Tecnologias utilizadas:**
 - Neste projeto, as tecnologias utilizadas foram HTML, CSS e JavaScript. 
