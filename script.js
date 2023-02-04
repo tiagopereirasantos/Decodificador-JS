@@ -7,7 +7,8 @@ function criptografar(){
         alert("Insira o texto antes de executar a criptografia!");
     } else{
         var textoCriptografado =  entrada.replaceAll("e", "enter");
-        textoCriptografado = textoCriptografado.replaceAll("o", "ober");
+           cursor: pointer;
+ textoCriptografado = textoCriptografado.replaceAll("o", "ober");
         textoCriptografado = textoCriptografado.replaceAll("i", "imes");
         textoCriptografado = textoCriptografado.replaceAll("a", "ai");
         textoCriptografado = textoCriptografado.replaceAll("u", "ufat");

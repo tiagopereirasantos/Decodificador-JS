@@ -1,40 +1,48 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cripto text</title>
-    <link href="https://fonts.googleapis.com/css2?family=Inter&family=Montserrat:wght@400;700&display=swap" rel="stylesheet">    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter&family=Montserrat:wght@400;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-   
+
     <header>
         <h1> <img src="Imagens/lock_logo.png"> CRIPTO TEXT</h1>
     </header>
 
     <section>
         <div>
-            <textarea id ="entrada" placeholder="Digite seu texto . . ."></textarea>
-            
-            <div id = "areaResultados">
-                <textarea  id = "resultados" readonly></textarea>        
-               <p id = "info"><input type = "button" id = "buttonCopy" value = "Copiar" onclick="copiar()"></p>
+            <textarea id="entrada" placeholder="Digite seu texto . . ."></textarea>
+
+            <div id="areaResultados">
+                <textarea id="resultados" readonly></textarea>
+                <p id="info"><input type="button" id="buttonCopy" value="Copiar" onclick="copiar()"></p>
             </div>
-    
+
             <p>
-                <p id = "info"><strong>&#9432 Somente letras minúsculas não acentuadas.</strong></p>        
-                <input type = "button" id = "buttonCrip" value= "Criptografar" onclick="criptografar()">
-                <input type = "button" id = "buttonDescrip" value = "Descriptografar" onclick="descriptografar()">
+            <p id="info"><strong>&#9432 Somente letras minúsculas não acentuadas.</strong></p>
+            <input type="button" id="buttonCrip" value="Criptografar" onclick="criptografar()">
+            <input type="button" id="buttonDescrip" value="Descriptografar" onclick="descriptografar()">
             </p>
         </div>
     </section>
 
     <footer>
-        &copy Desenvolvido por Tiago Pereira Santos
+        <p>&copy Tiago Pereira Santos</p>
+        <a href="https://github.com/tiagopereirasantos" target=" _blank" rel="noopener noreferrer"><img id="github"
+                src="/Imagens/logo-github.png"></a>
+        <a href="https://www.linkedin.com/in/tiago-pereira-santos/" target="_blank" rel="noopener noreferrer"><img
+                id="linkedin" src="/Imagens/logo-linkedin.png"></a>
     </footer>
 
     <script src="script.js"></script>
 </body>
+
 </html>
